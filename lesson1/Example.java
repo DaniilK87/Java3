@@ -9,7 +9,7 @@ public class Example {
     Integer[] arr = new Integer[4];
     int x;
 
-    // заполняем массив
+    // заполняем массив 
     public void Example() {
         for (int i = 0; i < arr.length; i++) {
             arr[i] = i;

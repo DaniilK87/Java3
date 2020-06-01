@@ -16,7 +16,7 @@ public abstract class Fruit {
         }
     }
 
-    class Orange extends Fruit {
+    class Orange extends Fruit { 
 
         @Override
         int getWeight() {

@@ -7,6 +7,6 @@ public class Test {
         orangeBox.compare(appleBox);
         Box<Apple>appleBox1 = new Box<>();
         appleBox.dropTo(appleBox1);
-        System.out.println(appleBox.fruits);
+        System.out.println(appleBox.fruits); 
     }
 }
